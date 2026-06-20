@@ -1,1 +1,12 @@
+IMPORTANTE
 
+Tuve problemas para cargar el proyecto de CodeIgniter directamente, 
+por eso lo subí como un archivo comprimido (.tar).
+
+Pasos para poder correrlo:
+
+1. Descomprimir el archivo dentro de la carpeta htdocs (XAMPP).
+2. Es posible que haya que darle permisos a la carpeta para que funcione correctamente.
+3. La URL inicial del proyecto es:
+
+   http://localhost/TP/public/clientes
